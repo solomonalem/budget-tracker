@@ -24,7 +24,7 @@ It's a budget tracker progressive web application (PWA) where the user can insta
 - Mongoose
 - Compression
 - morgan
-- Express
+- Express.js
 
 ## Usage
 Download the app easily and save it in your home-screen 
